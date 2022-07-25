@@ -1,18 +1,9 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+# dependencies
+/node_modules
+/.pnp
 .pnp.js
-
-#sample01
-/sample01/node_modules
-sample01/.pnp
-
-#sample02
-/sample02/node_modules
-sample02/.pnp
-
-#sample03
-/sample03/node_modules
-sample03/.pnp
 
 # testing
 /coverage
